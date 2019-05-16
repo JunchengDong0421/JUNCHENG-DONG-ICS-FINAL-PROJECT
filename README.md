@@ -17,6 +17,7 @@ Chat System:
 3. If group gamming, only those finish can each other's score
 4. Compatibility with game is well (exit is normal)
 
+
 References:
 main game: https://www.cnblogs.com/wuzhanpeng/p/4261015.html
 
@@ -26,11 +27,13 @@ materials: https://www.jianshu.com/p/0993c99f6000
 
 other images from Baidu/Google image search
 
+
 BGM:
 shØut - SawanoHiroyuki[nZk]
 
 夜は眠れるかい? - flumpool
 
 Game Lost - Michiel van den Bos (from Age of Wonders 3 OST)
+
 
 #LEARNING USE ONLY!
