@@ -13,12 +13,12 @@ pygame.display.set_caption("Let's shoot! Have fun~")
 #init mixer to play music and sound    
 pygame.mixer.init()
 
-#necessary variables
+#necessary variables to start game
 score = 0
 hero_speed = 6
 enemy_speed = 2
 span = 10
-bullet_freq = 40
+bullet_freq = 30
 enemy_freq = 30
 level = 0
 life = 3
@@ -365,6 +365,7 @@ while not game_over:
                 #refreshing hero image
                 screen.blit(hero.image, hero.rect)
                 
+                #keep loop going
                 ticks += 1
                 
                 pygame.display.update()
