@@ -1,10 +1,10 @@
 # JUNCHENG-DONG-ICS-FINAL-PROJECT
 Author: Juncheng Dong
-chat system + barrage game
+chat system + barrage game  
 WARNING: Please install pygame to run game_mian.py
 
 Features:
-Brrage game:
+Barrage game:
 1. Music + Sound effect
 2. Simple GUI before game
 3. Two types of enemies (will add more in the future)
@@ -14,7 +14,7 @@ Brrage game:
 Chat System:
 1. When alone, type "#game" to play by self
 2. When chatting, type "#game" to automatically start game for everybody in the group
-3. If group gamming, only those finish can each other's score
+3. If group gamming, only those finish can see each other's score
 4. Compatibility with game is well (exit is normal)
 
 References:
